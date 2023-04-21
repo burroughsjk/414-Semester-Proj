@@ -26,6 +26,7 @@ def main():
             except dns.resolver.NoAnswer:
                 pass
             except KeyboardInterrupt:
+                print("--------- Keyboard interrupt detected - program killed ---------")
                 quit()
 
 main()
