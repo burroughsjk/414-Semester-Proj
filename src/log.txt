@@ -1,13 +1,61 @@
-[NOT FOUND - NXDOMAIN] lib.youtube.com 
-[VALID] img.youtube.com 
-[NOT FOUND - NXDOMAIN] dns.youtube.com 
-[NOT FOUND - NXDOMAIN] open.youtube.com 
+[VALID] www.youtube.com 
+[NOT FOUND - NXDOMAIN] mail.youtube.com 
+[NOT FOUND - NXDOMAIN] ftp.youtube.com 
+[NOT FOUND - NXDOMAIN] localhost.youtube.com 
+[NOT FOUND - NXDOMAIN] webmail.youtube.com 
+[NOT FOUND - NXDOMAIN] smtp.youtube.com 
+[NOT FOUND - NXDOMAIN] pop.youtube.com 
+[NOT FOUND - NXDOMAIN] ns1.youtube.com 
+[NOT FOUND - NXDOMAIN] webdisk.youtube.com 
+[NOT FOUND - NXDOMAIN] ns2.youtube.com 
+[NOT FOUND - NXDOMAIN] cpanel.youtube.com 
+[NOT FOUND - NXDOMAIN] whm.youtube.com 
+[NOT FOUND - NXDOMAIN] autodiscover.youtube.com 
+[NOT FOUND - NXDOMAIN] autoconfig.youtube.com 
 [VALID] m.youtube.com 
-[NOT FOUND - NXDOMAIN] a.youtube.com 
+[NOT FOUND - NXDOMAIN] imap.youtube.com 
+[NOT FOUND - NoAnswer] test.youtube.com 
+[NOT FOUND - NXDOMAIN] ns.youtube.com 
+[NOT FOUND - NXDOMAIN] blog.youtube.com 
+[NOT FOUND - NXDOMAIN] pop3.youtube.com 
+[NOT FOUND - NXDOMAIN] dev.youtube.com 
+[NOT FOUND - NXDOMAIN] www2.youtube.com 
+[VALID] admin.youtube.com 
+[NOT FOUND - NXDOMAIN] forum.youtube.com 
+[VALID] news.youtube.com 
+[NOT FOUND - NXDOMAIN] vpn.youtube.com 
+[NOT FOUND - NXDOMAIN] ns3.youtube.com 
+[NOT FOUND - NXDOMAIN] mail2.youtube.com 
+[NOT FOUND - NXDOMAIN] new.youtube.com 
+[NOT FOUND - NXDOMAIN] mysql.youtube.com 
+[NOT FOUND - NXDOMAIN] old.youtube.com 
+[NOT FOUND - NXDOMAIN] lists.youtube.com 
+[NOT FOUND - NoAnswer] support.youtube.com 
+[NOT FOUND - NXDOMAIN] mobile.youtube.com 
+[VALID] mx.youtube.com 
+[NOT FOUND - NXDOMAIN] static.youtube.com 
+[NOT FOUND - NXDOMAIN] docs.youtube.com 
+[NOT FOUND - NXDOMAIN] beta.youtube.com 
+[NOT FOUND - NXDOMAIN] shop.youtube.com 
+[NOT FOUND - NXDOMAIN] sql.youtube.com 
+[NOT FOUND - NXDOMAIN] secure.youtube.com 
+[NOT FOUND - NXDOMAIN] demo.youtube.com 
+[NOT FOUND - NXDOMAIN] cp.youtube.com 
+[NOT FOUND - NXDOMAIN] calendar.youtube.com 
+[NOT FOUND - NXDOMAIN] wiki.youtube.com 
+[NOT FOUND - NXDOMAIN] web.youtube.com 
+[NOT FOUND - NXDOMAIN] media.youtube.com 
+[NOT FOUND - NXDOMAIN] email.youtube.com 
+[NOT FOUND - NXDOMAIN] images.youtube.com 
+[VALID] img.youtube.com 
+[NOT FOUND - NXDOMAIN] www1.youtube.com 
+[NOT FOUND - NXDOMAIN] intranet.youtube.com 
+[NOT FOUND - NXDOMAIN] portal.youtube.com 
+[NOT FOUND - NXDOMAIN] video.youtube.com 
 ---------------- Keyboard interrupt detected - program killed ----------------
 
 ---------------- Summary ----------------
-Total runtime: 0.27884387969970703 sec
-Total subdomains checked: 6
-Total valid subdomains found : 2
-Total invalid subdomains: 4
+Total runtime: 2.163083076477051 sec
+Total subdomains checked: 54
+Total valid subdomains found : 6
+Total invalid subdomains: 48

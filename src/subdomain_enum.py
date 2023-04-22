@@ -1,11 +1,15 @@
 import dns.resolver
 import sys
 import time
-# Subdomain list sourced from https://github.com/rbsec/dnscan/blob/master/subdomains-10000.txt
+
+# Subdomain lists sourced from https://github.com/rbsec/dnscan
 
 
 domain = sys.argv[1]
-subdomain_array = ['lib', 'img', 'dns', 'open', 'm', 'a', 'studio', 'tv']
+inputfile = sys.argv[2]
+with open(inputfile, "r") as file:
+	subdomain_array = file.read().splitlines()
+	#subdomain_array = ['lib', 'img', 'dns', 'open', 'm', 'a', 'studio', 'tv']
 
 
 def logException(subdom, exceptionType, file):

@@ -1,2 +1,6 @@
-img.youtube.com 
+www.youtube.com 
 m.youtube.com 
+admin.youtube.com 
+news.youtube.com 
+mx.youtube.com 
+img.youtube.com 
