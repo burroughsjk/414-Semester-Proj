@@ -1,16 +1,15 @@
 Running
 --------------------------------------------------------------------------
 
-Open terminal, cd to src, then enter command: 
+Open terminal, cd to src, then enter the following command: 
 
-py .\subdomain_enum.py mywebsite.com
+py .\subdomain_enum.py mywebsite.com wordlist.txt
+
+
+Available word lists include:
+100_subdomains.txt
+500_subdomains.txt
+1000_subdomains.txt
+10000_subdomains.txt
 
 Use Ctrl + C to cancel at any time.
-
-
-TODO:
---------------------------------------------------------------------------
-- *DONE* Have program output a text file list of every subdomain found instead of just printing
-- Find way to reference the 10000 subdomains list file instead of pasting it in
-- Add verbose/nonverbose mode? (Verbose prints for invalid and unresponsive domains)
-- 
